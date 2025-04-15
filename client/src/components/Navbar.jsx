@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <div className="flex items-center justify-between py-4">
       <Link to={"/"}>
-        <img src={assets.logo} className="w-28 sm:w-32 lg:w-40" />
+        <h1 className=" flex text-lg font-bold" >PANDA-AI</h1>
       </Link>
       <div>
         {user ? (

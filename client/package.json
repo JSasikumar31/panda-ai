@@ -1,5 +1,5 @@
 {
-  "name": "imagify---react",
+  "name": "panda-ai",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,6 +14,7 @@
     "motion": "^11.15.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-helmet": "^6.1.0",
     "react-router-dom": "^7.1.0",
     "react-toastify": "^11.0.2"
   },
